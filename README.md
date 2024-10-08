@@ -41,7 +41,7 @@
 
 ## 📈 Project
 - `24.04.18 ~ 24.06.09`  <a href="https://github.com/24AWP-FAVICON">여행계획공유 SNS 'ToUs' - Backend</a>
-- `24.07.02 ~ 24.08.23` Kakao Enterprise Academy 기업 실무 프로젝트, 휴양시설 예약 & 추첨 서비스 'DKVacation' - Backend
+- `24.07.02 ~ 24.08.23`<a href="https://github.com/KEA4th-Boosting"> Kakao Enterprise Academy 기업 실무 프로젝트, 휴양시설 예약 & 추첨 서비스 'DKVacation' - Backend</a>
 
 ## 📝 Certifications
 - TOPCIT 628점
