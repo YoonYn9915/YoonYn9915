@@ -5,7 +5,7 @@
     <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsy4407">
   </a>  
   
-- Department of Software, Gachon University (2018.03 ~ )
+- Department of Software, Gachon University (2018.03 ~ 2025.02)
 - I'm Interested in **Server, Cloud**.
 - KEA(Kakao Enterprise Academy) 4th
   <br/>
